@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# Applying database migrations
+echo " "
+echo "Making database migrations ..."
+python manage.py makemigrations
+
 
 # Applying database migrations
 echo " "

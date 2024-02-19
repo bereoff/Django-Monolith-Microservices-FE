@@ -10,7 +10,7 @@ In the directory of the same name, there is a Django web application with the Fr
   * MySQL
 
 ### Task 2
-Based on the initial structure, a challenge was proposed to break down the initial structure into microservices. Another difference from the project in Activity 1 is that they are RESTful applications.
+Based on the initial structure, a challenge was proposed to break down the initial structure into microservices. Another difference from the project in Task 1 is that they are RESTful applications.
 * **Technologies used:**
   * Django
   * Django Rest Framework
